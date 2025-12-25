@@ -51,7 +51,7 @@ export default {
   'builtins.lobe-local-system.apiName.editLocalFile': '编辑文件',
   'builtins.lobe-local-system.apiName.getCommandOutput': '获取代码输出',
   'builtins.lobe-local-system.apiName.globLocalFiles': '匹配搜索文件',
-  'builtins.lobe-local-system.apiName.grepContent': '搜索内容',
+  'builtins.lobe-local-system.apiName.grepContent': '搜索文件内容',
   'builtins.lobe-local-system.apiName.killCommand': '终止代码执行',
   'builtins.lobe-local-system.apiName.listLocalFiles': '查看文件列表',
   'builtins.lobe-local-system.apiName.moveLocalFiles': '移动文件',
